@@ -51,10 +51,10 @@
       "version": "35257"
     },
     "susfs": {
-      "ahead": 27,
+      "ahead": 29,
       "base": "04a9d713106191ba98be680bd7ad9547ab1de964",
       "changed": true,
-      "commit": "8a120081f2739bc0e4b1f6a389d8236f22944acc",
+      "commit": "0ee665081f639a41c21f1ee5c3b208cf063edb2d",
       "compatibility_errors": [],
       "component_gate": true,
       "current_commit": "5326e21a7eb232f9e21debdd5164e99bee3d1e2f",
@@ -148,7 +148,7 @@
   },
   "note": "PASS means source/integration gates accept the candidate. REVIEW_REQUIRED means a declared interface/version generation changed and must be explicitly reviewed before a manual build is allowed. No status proves that the kernel compiles; only a manually started compile can prove that.",
   "package_performed": false,
-  "repository_sha": "5870fd9d5ff74991dc66abdab0e642fffeecba1e",
+  "repository_sha": "ccf48ba45b445f2a7a79f17a74230bd88ed32ae1",
   "review_reasons": [
     "resukisu: ReSukiSU UAPI changed: 5 -> 6",
     "nomount: NoMount declared version changed: 20 -> 22"
